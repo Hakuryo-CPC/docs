@@ -1,1 +1,4 @@
-## Minesweeper written in Python
+# ようこそ
+
+マインスイーパーというゲームをPythonで書くチュートリアルです。\
+次章より順番に手順を示します。
